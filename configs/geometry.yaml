@@ -1,0 +1,6 @@
+geometry:
+  backend: dsec_gt
+  min_depth_m: 0.2
+  max_depth_m: 100
+  central_fraction: 0.4
+  min_depth_valid_ratio: 0.1

@@ -1,0 +1,6 @@
+project: Geometry-grounded Persistent 4D Object Memory
+visual_frame_provider: dsec_image
+geometry_backend: dsec_gt
+detector: groundingdino
+duration_s: 20
+sample_fps: 1

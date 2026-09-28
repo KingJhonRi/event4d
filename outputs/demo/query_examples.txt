@@ -1,0 +1,27 @@
+> What objects are near me?
+No matching objects with valid metric depth were recorded.
+
+> What is the closest object?
+1 object(s) matched.
+traffic sign #40: last measured 1.1s ago; distance = 16.2 m; camera XYZ = (-5.9, -1.4, 15.1) m; state = unknown (camera-relative); observations = 1
+
+> What objects are approaching me?
+1 object(s) matched.
+car #35: distance = 40.0 m; camera XYZ = (-15.4, 0.5, 36.9) m; state = approaching (camera-relative); observations = 4
+
+> What moved during the last five seconds?
+3 object(s) matched.
+car #24: last measured 2.3s ago; distance = 25.0 m; camera XYZ = (-3.9, 0.1, 24.7) m; state = approaching (camera-relative); observations = 6
+person #1: last measured 2.8s ago; distance = 30.8 m; camera XYZ = (-1.3, 0.5, 30.8) m; state = approaching (camera-relative); observations = 17
+car #35: distance = 40.0 m; camera XYZ = (-15.4, 0.5, 36.9) m; state = approaching (camera-relative); observations = 4
+
+> What is within 40 meters?
+4 object(s) matched.
+traffic sign #40: last measured 1.1s ago; distance = 16.2 m; camera XYZ = (-5.9, -1.4, 15.1) m; state = unknown (camera-relative); observations = 1
+traffic sign #41: last measured 1.1s ago; distance = 16.4 m; camera XYZ = (-6.5, -1.4, 15.0) m; state = unknown (camera-relative); observations = 1
+car #34: last measured 1.1s ago; distance = 16.5 m; camera XYZ = (-7.4, 0.2, 14.8) m; state = unknown (camera-relative); observations = 4
+traffic sign #36: last measured 1.7s ago; distance = 19.3 m; camera XYZ = (-4.7, -1.4, 18.6) m; state = unknown (camera-relative); observations = 1
+
+> Where is object 3?
+1 object(s) matched.
+car #3: last measured 4.6s ago; distance = 17.0 m; camera XYZ = (2.9, 0.7, 16.8) m; state = approaching (camera-relative); observations = 16

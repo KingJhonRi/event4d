@@ -1,0 +1,42 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Downloaded datasets, model weights and third-party repositories
+data/
+models/
+third_party/
+
+# Logs and local build files
+logs/
+.codex-build/
+*.log
+
+# Keep only the reviewed sample outputs in Git
+outputs/*
+!outputs/sanity/
+!outputs/demo/
+outputs/demo/*
+!outputs/demo/overlay.mp4
+!outputs/demo/bev.mp4
+!outputs/demo/first_overlay.png
+!outputs/demo/first_bev.png
+!outputs/demo/tracks.csv
+!outputs/demo/memory.jsonl
+!outputs/demo/observations.jsonl
+!outputs/demo/demo_summary.json
+!outputs/demo/query_examples.txt
+!outputs/demo/audit_verification.json
+
+# Editor and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+~$*.pptx
+
+# Private group meeting materials
+reports/*.ppt*
+reports/*讲稿*.md

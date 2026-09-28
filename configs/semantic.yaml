@@ -1,0 +1,3 @@
+labels: [person, car, bicycle, motorcycle, bus, truck, traffic sign, traffic light, backpack]
+box_threshold: 0.35
+text_threshold: 0.25

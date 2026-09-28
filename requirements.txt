@@ -1,0 +1,14 @@
+numpy
+scipy
+opencv-python
+h5py
+hdf5plugin
+PyYAML
+requests
+pillow
+imageio
+torch
+torchvision
+transformers==4.49.0
+PySocks
+socksio

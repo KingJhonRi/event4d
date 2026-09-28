@@ -1,0 +1,6 @@
+history_seconds: 30
+max_trajectory_samples: 1000
+ema_alpha: 0.5
+radial_velocity_threshold_mps: 0.3
+stationary_speed_threshold_mps: 0.1
+fast_speed_threshold_mps: 0.5

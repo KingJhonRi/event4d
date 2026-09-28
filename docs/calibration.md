@@ -1,0 +1,3 @@
+# Stereo calibration
+
+Estimate intrinsics and distortion for each camera, left to right extrinsics, rectification maps, and timestamp offset. Capture 30–50 calibration poses spanning center, corners, near, far, and tilted views. Move the target or cameras, or use a blinking pattern, so event cameras emit useful edges. Prefer a monocular reprojection error below 0.5 px; 0.5–0.8 px can be acceptable for a first prototype, and above 1 px calls for recalibration. Check rectified vertical mismatch below 0.5 px if possible and at least below 1 px. Verify the physical baseline against the recovered value.

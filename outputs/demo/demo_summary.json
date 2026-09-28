@@ -1,0 +1,20 @@
+{
+  "sequence": "thun_00_a",
+  "geometry": "DSEC GT image disparity",
+  "semantic": "GroundingDINO official",
+  "has_world_pose": false,
+  "coordinate_frame": "rectified left image camera",
+  "frames": 22,
+  "detections": 136,
+  "valid_depth_observations": 54,
+  "tracks": 45,
+  "max_observations_per_track": 17,
+  "download_bytes": 1593663735,
+  "max_valid_xyz_trajectory": 9,
+  "events_used_for_inference": false,
+  "semantic_input": "rectified frame-camera image converted to grayscale",
+  "query_backend": "local rules and templates",
+  "requested_fps": 2.0,
+  "first_timestamp_us": 49599200500,
+  "last_timestamp_us": 49611100436
+}

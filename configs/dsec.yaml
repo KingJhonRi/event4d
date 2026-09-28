@@ -1,0 +1,4 @@
+sequence: thun_00_a
+event_window_ms: 20
+disparity_scale: 256
+max_timestamp_gap_us: 50000
